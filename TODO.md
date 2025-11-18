@@ -1,0 +1,12 @@
+- [x] Update app/Livewire/Orders/OrderIndex.php: Tambah use Order, ambil data orders, pass ke view, tambah method delete
+- [x] Update resources/views/livewire/orders/order-index.blade.php: Sesuaikan layout seperti user-index untuk orders
+- [x] Update app/Livewire/Tickets/TicketIndex.php: Tambah use Ticket, ambil data tickets, pass ke view, tambah method delete
+- [x] Update resources/views/livewire/tickets/ticket-index.blade.php: Sesuaikan layout seperti user-index untuk tickets
+- [x] Update app/Livewire/Orders/OrderCreate.php: Tambah properties dan method submit untuk create order
+- [x] Update resources/views/livewire/orders/order-create.blade.php: Sesuaikan layout seperti user-create untuk orders
+- [x] Update app/Livewire/Orders/OrderEdit.php: Tambah properties, mount, dan method submit untuk edit order
+- [x] Update resources/views/livewire/orders/order-edit.blade.php: Sesuaikan layout seperti user-edit untuk orders
+- [x] Update app/Livewire/Tickets/TicketCreate.php: Tambah properties dan method submit untuk create ticket
+- [x] Update resources/views/livewire/tickets/ticket-create.blade.php: Sesuaikan layout seperti user-create untuk tickets
+- [x] Update app/Livewire/Tickets/TicketEdit.php: Tambah properties, mount, dan method submit untuk edit ticket
+- [x] Update resources/views/livewire/tickets/ticket-edit.blade.php: Sesuaikan layout seperti user-edit untuk tickets
