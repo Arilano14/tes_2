@@ -32,7 +32,7 @@ Built with **TailwindCSS**, **Laravel Breeze**, and **Flux Components** for eleg
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/AbidAlauddin/Planetarium.git
+git clone https://github.com/Arilano14/tes_2.git
 cd Planetarium
 ```
 
